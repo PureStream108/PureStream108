@@ -2,7 +2,7 @@
 
 A student at Nanjing University of Posts and Telecommunications (NJUPT)
 
-CTF player at [X1cT34m](https://ctf.njupt.edu.cn/)
+A CTF player at [X1cT34m](https://ctf.njupt.edu.cn/)
 
 Blog: [PureStream & Marblue - 若夜幕无垠，仍有流虹长明](https://marblue.pink/)
 
